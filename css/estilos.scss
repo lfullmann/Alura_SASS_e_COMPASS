@@ -1,9 +1,9 @@
-@import 'helpers/variaveis.scss';
-@import 'helpers/mixins.scss';
+@import 'helpers/variaveis';
+@import 'helpers/mixins';
 
-
-@import 'layout/geral.scss';
-@import 'layout/header.scss';
+@import 'base/normalize';
+@import 'layout/geral';
+@import 'layout/header';
 @import 'layout/destaque';
 @import 'layout/sobre';
 @import 'layout/planos';
